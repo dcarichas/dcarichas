@@ -1,5 +1,7 @@
 ![dcarichasImage](./img/dcarichas.gif)
 
+---
+
 ![wip_image](./img/wip.gif)
 
 
