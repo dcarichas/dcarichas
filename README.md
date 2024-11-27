@@ -1,4 +1,8 @@
-# 𝙙𝙘𝙖𝙧𝙞𝙘𝙝𝙖𝙨
+![dcarichasImage](./img/dcarichas.gif)
+
+![wip_image](./img/wip.gif)
+
+
 
 ```
                                               __      _                                                    
