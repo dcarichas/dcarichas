@@ -1,6 +1,4 @@
-# ![dcarichasImage](./img/dcarichas.gif)
-
----
+# ![dcarichasImage](./img/dcarichas_light.gif)
 
 ![wip_image](./img/wip.gif)
                                                             
