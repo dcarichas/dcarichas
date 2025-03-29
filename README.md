@@ -1,6 +1,6 @@
 # ![dcarichasImage](./img/dcarichas_light.gif)
 
-![wip_image](./img/wip.gif)
+<!-- ![wip_image](./img/wip.gif) -->
                                                             
 <!--
 **dcarichas/dcarichas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
